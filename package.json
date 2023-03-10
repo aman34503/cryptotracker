@@ -1,7 +1,7 @@
 {
   "name": "crypto-tracker",
   "version": "0.1.0",
-  "author": "Shreyas Mulay",
+  "author": "Aman Shrivastava",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
